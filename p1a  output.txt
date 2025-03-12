@@ -1,0 +1,15 @@
+p1a : gym membership program
+
+-----------------  GYM MEMBERSHIP MANAGEMENT ------------------
+Enter name: Likith R
+Enter age: 18
+Enter membership status (Active/Inactive): Active
+Enter membership duration (in months): 12
+
+----------------  MEMBERSHIP DETAILS ----------------
+Name: Likith R
+Age: 18
+Membership status: Active
+Membership duration: 12 months
+Membership fee: 18000.0
+Process finished with exit code 0

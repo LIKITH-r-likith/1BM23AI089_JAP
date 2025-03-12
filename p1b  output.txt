@@ -1,0 +1,12 @@
+p1b : chess board
+
+BWBWBWBW
+WBWBWBWB
+BWBWBWBW
+WBWBWBWB
+BWBWBWBW
+WBWBWBWB
+BWBWBWBW
+WBWBWBWB
+
+Process finished with exit code 0
