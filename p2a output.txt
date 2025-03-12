@@ -1,0 +1,16 @@
+p2a : autoboxing
+
+value of a=5
+value of b=5
+value of c=5
+value of a1=5.0
+value of b1=5.0
+value of c1=5.0
+Value of x1 = 5
+Value of y1 = 5
+Value of z1 = 5
+Value of x2 = a
+Value of y2 = a
+Value of z2 = a
+
+Process finished with exit code 0
