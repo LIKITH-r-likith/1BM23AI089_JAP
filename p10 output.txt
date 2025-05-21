@@ -1,0 +1,9 @@
+C:\Users\Hp\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=50451" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Hp\IdeaProjects\untitled\out\production\untitled dpack.ProtectedDemo
+From class B:
+Protected: 20
+Public: 40
+From class C:
+Public: 40
+
+Process finished with exit code 0
+
