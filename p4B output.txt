@@ -1,0 +1,16 @@
+C:\Users\Hp\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=49909" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Hp\IdeaProjects\untitled\out\production\untitled p4b
+enter the marks of students
+enter marks of the student1:
+94
+enter marks of the student2:
+98
+enter marks of the student3:
+99
+enter marks of the student4:
+96
+enter marks of the student5:
+92
+THe total score of all students is 479
+The highest score scored is99
+
+Process finished with exit code 0

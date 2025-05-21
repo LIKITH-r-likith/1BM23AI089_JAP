@@ -1,0 +1,6 @@
+P4A OUTPUT
+C:\Users\Hp\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=49792" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Hp\IdeaProjects\untitled\out\production\untitled p4
+true
+false
+
+Process finished with exit code 0
